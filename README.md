@@ -88,6 +88,8 @@ It aims to provide a reliable bridge between rendered image sequences and profes
 
 ## Project Philosophy
 
-FrameForge focuses on three principles:
+**FrameForge focuses on three principles:**
 
-**Image Integrity.**
+- **Visual Fidelity**
+- **Encoding Reliability**
+- **Workflow Efficiency**
